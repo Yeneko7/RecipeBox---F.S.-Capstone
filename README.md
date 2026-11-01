@@ -73,7 +73,7 @@ pip install -r requirements.txt && python seed.py
 
 ## Live Deployments & Repository Links
 
-* **Frontend Web App:** [Insert Link]
+* **Frontend Web App:** https://recipebox-capstone-web.onrender.com/
 * **Core API Endpoint:** https://recipebox-api-capstone.onrender.com
 * **Shopping Service Engine:** https://recipebox-shopping.onrender.com
 * **GitHub Repository:** https://github.com/Yeneko7/RecipeBox---F.S.-Capstone
